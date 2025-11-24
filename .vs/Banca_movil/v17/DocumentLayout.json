@@ -1,7 +1,84 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Banca_movil\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\models\\setting\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\models\\setting\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\models\\setting\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\models\\setting\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\service\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\dto\\forgotpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\dto\\forgotpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\dto\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\dto\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|c:\\users\\usuario\\downloads\\compressed\\proyecto_billetera_movil1-main\\banca_movil\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BD6C4E3-9991-482F-A034-72DB21EC2C64}|Banca_movil\\Banca_movil.csproj|solutionrelative:banca_movil\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +86,254 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\Setting\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Models\\Setting\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\Setting\\SmtpSettings.cs",
+              "RelativeToolTip": "Banca_movil\\Models\\Setting\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:30:21.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\Setting\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Models\\Setting\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\Setting\\JwtSettings.cs",
+              "RelativeToolTip": "Banca_movil\\Models\\Setting\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:29:59.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\TokenService.cs",
+              "RelativeToolTip": "Banca_movil\\Service\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:24:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Service\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\ITokenService.cs",
+              "RelativeToolTip": "Banca_movil\\Service\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:23:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Service\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\IEmailService.cs",
+              "RelativeToolTip": "Banca_movil\\Service\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:23:11.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Service\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\IAuthService.cs",
+              "RelativeToolTip": "Banca_movil\\Service\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:22:27.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\EmailService.cs",
+              "RelativeToolTip": "Banca_movil\\Service\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:22:00.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Service\\AuthService.cs",
+              "RelativeToolTip": "Banca_movil\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:21:37.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Banca_movil\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T17:02:13.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Banca_movil\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:57:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Banca_movil\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:55:57.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\Role.cs",
+              "RelativeToolTip": "Banca_movil\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:50:58.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Models\\User.cs",
+              "RelativeToolTip": "Banca_movil\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:50:41.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Dto\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Banca_movil\\Dto\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:38:23.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPasswordRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\ResetPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Dto\\ResetPasswordRequestDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\ResetPasswordRequestDto.cs",
+              "RelativeToolTip": "Banca_movil\\Dto\\ResetPasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:37:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\ForgotPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Dto\\ForgotPasswordRequestDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\ForgotPasswordRequestDto.cs",
+              "RelativeToolTip": "Banca_movil\\Dto\\ForgotPasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:37:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Dto\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\ChangePasswordDto.cs",
+              "RelativeToolTip": "Banca_movil\\Dto\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:36:38.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Dto\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\LoginRequestDto.cs",
+              "RelativeToolTip": "Banca_movil\\Dto\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:36:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Banca_movil\\Dto\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Compressed\\Proyecto_billetera_movil1-main\\Banca_movil\\Dto\\LoginResponseDto.cs",
+              "RelativeToolTip": "Banca_movil\\Dto\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T16:35:26.825Z",
+              "EditorCaption": ""
             }
           ]
         }
