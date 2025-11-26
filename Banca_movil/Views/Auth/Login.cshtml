@@ -1,0 +1,152 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banca Móvil - Login</title>
+    <link href="~/css/login.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="overlay">
+        <div class="popup-container">
+            <main>
+                <div class="form-container">
+
+                    <!-- LOGIN -->
+                    <div id="loginForm" class="form active">
+                        <h1>Bienvenido</h1>
+                        <p class="subtitle">Ingresa a tu cuenta</p>
+
+                        <form asp-controller="Auth" asp-action="Login" method="post" id="loginFormElement">
+                            <div class="input-group">
+                                <img src="https://api.iconify.design/mdi:email-outline.svg" alt="Email" class="input-icon">
+                                <input type="email" name="Email" placeholder="Correo" required>
+                            </div>
+
+                            <div class="input-group">
+                                <img src="https://api.iconify.design/mdi:lock-outline.svg" alt="Password" class="input-icon">
+                                <input type="password" name="Password" placeholder="Contraseña" required>
+                            </div>
+
+                            <div class="remember-forgot">
+                                <label class="remember">
+                                    <input type="checkbox" name="RememberMe">
+                                    <span>Recordarme</span>
+                                </label>
+                                <a href="#" class="forgot-link" data-form="forgotForm">Olvidé mi contraseña</a>
+                            </div>
+
+                            <button type="submit" class="signup-btn">Ingresar</button>
+
+                            <p class="login-link">
+                                ¿No tienes cuenta? <a href="#" class="switch-form" data-form="registerForm">Regístrate</a>
+                            </p>
+                        </form>
+                    </div>
+
+                    <!-- REGISTER -->
+                    <div id="registerForm" class="form">
+                        <h1>Crear Cuenta</h1>
+                        <p class="subtitle">Regístrate para empezar</p>
+
+                        <form asp-controller="Auth" asp-action="Register" method="post" id="registerFormElement">
+                            <div class="input-group">
+                                <img src="https://api.iconify.design/mdi:account-outline.svg" alt="UserName" class="input-icon">
+                                <input type="text" name="UserName" placeholder="Nombre" required>
+                            </div>
+
+                            <div class="input-group">
+                                <img src="https://api.iconify.design/mdi:email-outline.svg" alt="Email" class="input-icon">
+                                <input type="email" name="Email" placeholder="Correo" required>
+                            </div>
+
+                            <div class="input-group">
+                                <img src="https://api.iconify.design/mdi:lock-outline.svg" alt="Password" class="input-icon">
+                                <input type="password" name="Password" placeholder="Contraseña" required>
+                            </div>
+
+                            <div class="input-group">
+                                <select name="RoleId" required>
+                                    <option value="">Selecciona un rol</option>
+                                    <option value="1">Admin</option>
+                                    <option value="2">Usuario</option>
+                                </select>
+                            </div>
+
+                            <div class="input-group">
+                                <img src="https://api.iconify.design/mdi:lock-check-outline.svg" alt="Confirm Password" class="input-icon">
+                                <input type="password" name="ConfirmPassword" placeholder="Confirmar Contraseña" required>
+                            </div>
+
+                            <button type="submit" class="signup-btn">Crear Cuenta</button>
+
+                            <p class="login-link">
+                                ¿Ya tienes cuenta? <a href="#" class="switch-form" data-form="loginForm">Ingresar</a>
+                            </p>
+                        </form>
+                    </div>
+
+                    <!-- FORGOT PASSWORD -->
+                    <div id="forgotForm" class="form">
+                        <h1>Restablecer Contraseña</h1>
+                        <p class="subtitle">Ingresa tu correo para restablecerla</p>
+
+                        <form asp-controller="Auth" asp-action="ForgotPassword" method="post" id="resetPasswordForm">
+                            <div class="input-group">
+                                <img src="https://api.iconify.design/mdi:email-outline.svg" alt="Email" class="input-icon">
+                                <input type="email" name="Email" placeholder="Correo" required>
+                            </div>
+
+                            <button type="submit" class="signup-btn">Enviar Link</button>
+
+                            <p class="login-link">
+                                ¿Recordaste tu contraseña? <a href="#" class="switch-form" data-form="loginForm">Ingresar</a>
+                            </p>
+                        </form>
+                    </div>
+
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/just-validate@4.2.0/dist/just-validate.production.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    @if (TempData["Success"] != null)
+    {
+        <script>
+            Swal.fire({
+                icon: 'success',
+                title: '¡Éxito!',
+                text: '@TempData["Success"]',
+                toast: true,
+                position: 'top-end',
+                timer: 3000,
+                showConfirmButton: false
+            });
+        </script>
+    }
+    else if (TempData["Error"] != null)
+    {
+        <script>
+            Swal.fire({
+                icon: 'error',
+                title: 'Error',
+                text: '@TempData["Error"]',
+                toast: true,
+                position: 'top-end',
+                timer: 4000,
+                showConfirmButton: false
+            });
+        </script>
+    }
+
+    <script src="~/js/login.js"></script>
+</body>
+</html>
